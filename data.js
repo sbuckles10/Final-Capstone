@@ -37,7 +37,7 @@ const data = [{
 }, {
   "id": 7,
   "name": 'Hawaiian Pizza',
-  "image": "./images/Hawaiian.jpeg",
+  "image": "./images/hawaiian-pizza2.jpeg",
   "desc": "Hawaiian Pizza- Does Pineapple belong on pizza? Unknowing to many, this conrtoversial pizza has its origins traced back to Canada making it a true Canadian classic",
   "price": 12.99
 }, {
