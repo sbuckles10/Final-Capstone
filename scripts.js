@@ -123,13 +123,4 @@ function removeItem(name, qty = 0){
   }
 }
 
-addItem('Poutine', 10.99)
-addItem('Bacon Poutine', 12.99)
-addItem('Poutine', 10.99)
-addItem('Poutine', 10.99)
-addItem('Poutine', 10.99)
-removeItem('Poutine', 1)
-
-
-
 showItems ()
